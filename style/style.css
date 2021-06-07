@@ -118,6 +118,7 @@ a{
 }
 p{
   margin: 30px 0 ;
+  text-align:center;
 }
 .interactions{
   display:flex;
