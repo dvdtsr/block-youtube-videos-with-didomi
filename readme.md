@@ -7,7 +7,7 @@ There are many ways to achieve this with Didomi web SDK.
 In the following example, we will describe one solution to do so, using a video from Youtube as an example and without using a CMS.
 
 
-## What we will do ?
+## What we do ?
 
 1- We will prevent the video to be launched if the visitor has not given consent.
 
